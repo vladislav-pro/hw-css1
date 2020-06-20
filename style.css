@@ -1,0 +1,25 @@
+.conteiner{
+    text-align: center;
+}
+.name{
+    background-color:#a52a2a;
+}
+.name1{
+    color: #ffffff;
+}
+.italica{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.blu{
+    font-weight: bold;
+    color: blue;
+}
+.border{
+    border-style: dashed;
+}
+.footer{
+    background-color: black;
+}
